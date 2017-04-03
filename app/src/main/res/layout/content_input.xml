@@ -22,7 +22,7 @@
         android:id="@+id/content_edit_text"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@id/title_edit_text"
+        android:layouelow="@id/title_edit_text"
         android:hint="内容" />
     <Button
         android:id="@+id/date_button"
@@ -47,6 +47,6 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/times_button"
         android:layout_alignParentRight="true"
-        android:text="決定" />
+        android:text="決定!!!!" />
 
 </RelativeLayout>
